@@ -11,6 +11,8 @@ Unity Gesture Control is a Python + C# based library that enables gesture contro
 ## Demo 
 [(Watch Full Demo on Youtube)](https://www.youtube.com/watch?v=fcrvQKrahTQ)
 
+<br>
+
 #### 1. **Scale (scale.cs)**
 This script allows for scaling along the x, y, or z axes. You can choose to scale only one axis at a time.
 
