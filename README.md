@@ -28,7 +28,7 @@ This feature enables object movement tracking in real time, with gestures contro
 Download the "Unity Gesture Control V0.1" folder from GitHub.
 
 ### 2. **Install Python Dependencies**
-Run the following command to install the required Python dependencies listed in `requirements.txt` e.g.
+Run the following command to install the required Python dependencies listed in `requirements.txt` (Unity Gesture Control V0.1/Python Runner/requirements.txt)
 
 ```bash
 pip install -r path-to-requirements.txt
