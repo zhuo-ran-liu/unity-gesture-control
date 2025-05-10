@@ -15,10 +15,14 @@ Unity Gesture Control is a Python + C# based library that enables gesture contro
 This script allows for scaling along the x, y, or z axes. You can choose to scale only one axis at a time.
 ![Scale Demo](https://github.com/user-attachments/assets/448c6b14-50a9-4f1e-ad91-0feb1665a0af)
 
+<br>
+
 
 #### 2. **Rotation (rotate.cs)**
 This script can be applied to 3D objects, cameras, or lights, enabling rotation based on gesture input.
 ![Rotation Demo](https://github.com/user-attachments/assets/2d90004d-74e6-4102-a476-e0090b6dbdc9)
+
+<br>
 
 
 #### 3. **Control Object Movement (position_tracking.cs)**
