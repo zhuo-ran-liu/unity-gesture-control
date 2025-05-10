@@ -33,12 +33,16 @@ This script allows object to follow hand position.
 #### 1. **Download the Project**
 Download the "Unity Gesture Control V0.1" folder from GitHub.
 
+<br>
+
 #### 2. **Install Python Dependencies**
 Run the following command to install the required Python dependencies listed in `requirements.txt` (Unity Gesture Control V0.1/Python Runner/requirements.txt)
 
 ```bash
 pip install -r path-to-requirements.txt
 ```
+
+<br>
 
 #### 3. **Run the Python Script**
 Launch the Python runner by executing the script in the terminal:
@@ -47,10 +51,14 @@ Launch the Python runner by executing the script in the terminal:
 python3 path-to-pythonrunner.py
 ```
 
+<br>
+
 #### 4. **Set Up Unity Scene**
 Create your Unity scene and drag the desired C# script (e.g., `scale.cs`, `rotate.cs`, or `position_tracking.cs`) to the Unity Editor's control panel of the object you want to control.
 
 ![Tutorial](https://github.com/user-attachments/assets/ba2fe931-0b4f-48a7-874a-1f8f613c8ac1)
+
+<br>
 
 #### 5. **Run the Scene**
 Once your scene is set up, run it in Unity, and the gesture control should be active.
