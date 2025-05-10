@@ -3,22 +3,23 @@
 Unity Gesture Control is a Python + C# based library that enables gesture control in Unity game scenes. It allows for intuitive interaction through hand gestures, enabling developers to create immersive experiences.
 
 **Version**: v0.1  
-**Tested on**: macOS + Unity version 6000.0.45f1 (Desktop Apps)  
-*For other versions, feedback is welcome!*
+**Tested on**: macOS + Unity version 6000.0.45f1
 
 
 ## Demo
 
+Watch full demo on youtube
+
 #### 1. **Scale (scale.cs)**
-[![Scale Demo](https://img.youtube.com/vi/op4jARWVdHc/0.jpg)](https://youtu.be/op4jARWVdHc)  
+[![Scale Demo](https://github.com/zhuo-ran-liu/unity-gesture-control/blob/main/Demos/gesture_control_zoom.gif)]  
 This effect allows for scaling along the x, y, or z axes. You can choose to scale only one axis at a time.
 
 #### 2. **Rotation (rotate.cs)**
-[![Rotation Demo](https://img.youtube.com/vi/xfR7gT9n6BE/0.jpg)](https://youtu.be/xfR7gT9n6BE)  
+[![Rotation Demo](https://github.com/zhuo-ran-liu/unity-gesture-control/blob/main/Demos/gesture_control_zoom.gif)]
 This effect can be applied to 3D objects, cameras, or lights, enabling rotation based on gesture input.
 
 #### 3. **Control Object Movement (position_tracking.cs)**
-[![Movement Demo](https://img.youtube.com/vi/8se-A7Io_jo/0.jpg)](https://youtu.be/8se-A7Io_jo)  
+[![Movement Demo](https://github.com/zhuo-ran-liu/unity-gesture-control/blob/main/Demos/gesture_control_zoom.gif)]
 This feature enables object movement tracking in real time, with gestures controlling the position of objects within the scene.
 
 
