@@ -60,7 +60,12 @@ pip install -r path-to-requirements.txt
 Launch the Python runner by executing the script in the terminal:
 
 ```bash
-python3 path-to-pythonrunner.py
+python3 path-to-python-runner.py
+```
+Note: You might need to change the camera index to your capture device in th epython script 
+
+```
+cap = cv2. VideoCapture(1)
 ```
 
 <br>
