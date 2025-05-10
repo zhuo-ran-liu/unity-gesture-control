@@ -62,7 +62,7 @@ Launch the Python runner by executing the script in the terminal:
 ```bash
 python3 path-to-python-runner.py
 ```
-Note: You might need to change the camera index to your capture device in th epython script 
+Note: You might need to change the camera index to your capture device in python-runner.py
 
 ```
 cap = cv2. VideoCapture(1)
