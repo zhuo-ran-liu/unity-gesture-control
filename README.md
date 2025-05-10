@@ -5,6 +5,8 @@ Unity Gesture Control is a Python + C# based library that enables gesture contro
 **Version**: v0.1  
 **Tested on**: macOS + Unity version 6000.0.45f1
 
+<br>
+<br>
 
 ## Demo 
 [(Watch Full Demo on Youtube)](https://www.youtube.com/watch?v=fcrvQKrahTQ)
@@ -23,7 +25,8 @@ This script can be applied to 3D objects, cameras, or lights, enabling rotation 
 This script allows object to follow hand position.
 ![Movement Demo](https://github.com/user-attachments/assets/81adc92d-0f22-453a-82c4-c5781674507a)
 
-
+<br>
+<br>
 
 ## Instructions
 
@@ -45,12 +48,15 @@ python3 path-to-pythonrunner.py
 ```
 
 #### 4. **Set Up Unity Scene**
-- Create your Unity scene and drag the desired C# script (e.g., `scale.cs`, `rotate.cs`, or `position_tracking.cs`) to the Unity Editor's control panel of the object you want to control.
+Create your Unity scene and drag the desired C# script (e.g., `scale.cs`, `rotate.cs`, or `position_tracking.cs`) to the Unity Editor's control panel of the object you want to control.
 
 ![Tutorial](https://github.com/user-attachments/assets/ba2fe931-0b4f-48a7-874a-1f8f613c8ac1)
 
 #### 5. **Run the Scene**
 Once your scene is set up, run it in Unity, and the gesture control should be active.
+
+<br>
+<br>
 
 ## Notes
 
@@ -59,6 +65,9 @@ Once your scene is set up, run it in Unity, and the gesture control should be ac
 - **Future Plans**: I'm working on integrating the Python code into a Python-Sharp package, eliminating the need to run the Python script separately in the terminal. Stay tuned for updates!
 
 Have fun playing with gesture control!
+
+<br>
+<br>
 
 ## License
 
