@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/DemoScene02-Rotate.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
